@@ -12,6 +12,6 @@
 <br />
 
 ### Team.
-|   🖥 FE  | **[김준희](https://github.com/dev-junehee)** | **[김경원](https://github.com/ruddnjs3769)** | **[김가은](https://github.com/KIMKAEUN)** | **[정재현](https://github.com/iskra17)** |
+| Front-End | **[김준희](https://github.com/dev-junehee)** | **[김경원](https://github.com/ruddnjs3769)** | **[김가은](https://github.com/KIMKAEUN)** | **[정재현](https://github.com/iskra17)** |
 |:---------:|:--------:|:--------:|:--------:|:--------:|
-|  | 팀장 | 팀원 | 팀원 | 팀원 | 
+| 🖥 | 팀장 | 팀원 | 팀원 | 팀원 | 
